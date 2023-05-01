@@ -6,9 +6,9 @@
 /*Header Styling*/
 
 #top{
-    color:rgb(245, 10, 10);
+    color:lavenderblush;
     text-align:center;
-    font-size:46px;
+    font-size:100px;
     font-family: 'Ubuntu Mono', monospace;
 }
 #top1{
@@ -32,7 +32,7 @@
 #navbar{
     display:flex;
     flex-direction: column;
-    background-color: gray;
+    background-color: yellowgreen;
     height: 14vh;
     width: 100vw;
     font-family: 'Ubuntu Mono', monospace;
@@ -81,7 +81,7 @@ ul li a:hover{
     content:'';
     background: url("./1.jpg") no-repeat center center/cover;
     width: 100vw;
-    height:59vh;
+    height:30vh;
     position: absolute;
     top:0px;
     left: 0px;
@@ -95,7 +95,7 @@ ul li a:hover{
 }
 
 #row1{
-   color: black;
+   color: goldenrod;
     font-weight:bold;
     font-size: 2rem;
     text-align: center;
@@ -110,6 +110,7 @@ ul li a:hover{
     font-size:20px;
     font-weight: bold;
     font-family: 'Ubuntu Mono', monospace;
+
 }
 .btn:hover{
     cursor: pointer;
@@ -185,7 +186,7 @@ ul li a:hover{
     width: 29vw;
     height: 360px;
     border: 2px solid black;
-    background:url('a1.jpeg') no-repeat center center/cover; 
+    background:url('/home/varshini/Documents/fsd food delivery/pizza.jpeg') no-repeat center center/cover; 
     display: flex;
     justify-content:center;
     align-items:flex-end;
